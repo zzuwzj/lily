@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "common scaffold tool for initializing your project, support project templates management, based on git repo clone",
   "main": "index.js",
+  "bin": {
+    "lily": "bin/lily"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
