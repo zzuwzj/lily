@@ -1,5 +1,5 @@
 {
-  "name": "lily",
+  "name": "jsfs-lily",
   "version": "0.0.1",
   "description": "common scaffold tool for initializing your project, support project templates management, based on git repo clone",
   "main": "index.js",
@@ -22,7 +22,7 @@
     "url": "https://github.com/zzuwzj/lily/issues"
   },
   "homepage": "https://github.com/zzuwzj/lily#readme",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^1.1.3",
     "co": "^4.6.0",
     "co-prompt": "^1.0.0",
